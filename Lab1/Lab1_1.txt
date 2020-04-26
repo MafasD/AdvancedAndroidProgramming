@@ -1,0 +1,22 @@
+1. Object = Collection of data.
+
+2. Class = Kind of a function, always started with the class word.
+
+3. Instantiation of object (creating an object) = In order to create an object you need to use the variable declaration "new".
+for example: car toyota = new car(); , in this case car is a class and toyota is an object.
+
+4. Visibility (public / private / protected) = Public can be accessed anywhere, protected by classes of the same package and 
+subclasses of the same and different packages, private can only be accessed by the same class.
+
+5. Member datas / methods = Method means code which only works when it is called.
+
+6. Inheritance = When you use inheritance on an object, the object gets all properties and behaviours from the inherited object.
+
+7. Interface = specifies what class must do but not how(the method) can have variables and methods but methods are abstract(class without objects).
+
+8. Polymorphism = With polymorphism you can perform a single action in multiple different ways.
+
+9. Overriding = Overriding is a feature that allows a subclass or child class to provide a specific implementation of a method that 
+is already provided by one of its super-classes or parent classes.
+
+10.Abstract classes = Basically classes without objects.
