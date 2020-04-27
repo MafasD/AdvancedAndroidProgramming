@@ -1,5 +1,5 @@
 1. What programming languages you can use for Android app development?
-= Java and Kotlin (as far as I know).
+= Java and Kotlin and C++.
 
 2. What is .apk file? 
 - It is an android application file.
