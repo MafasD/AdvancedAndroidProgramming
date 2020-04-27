@@ -16,7 +16,6 @@ subclasses of the same and different packages, private can only be accessed by t
 
 8. Polymorphism = With polymorphism you can perform a single action in multiple different ways.
 
-9. Overriding = Overriding is a feature that allows a subclass or child class to provide a specific implementation of a method that 
-is already provided by one of its super-classes or parent classes.
+9. Overriding = This happens instead of the overridden method (you can or must? have if statement).
 
 10.Abstract classes = Basically classes without objects.
